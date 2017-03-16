@@ -1,0 +1,18 @@
+body{
+  font-family: 'Overpass Mono', monospace;
+}
+
+.title_logo{
+  margin-top: 20px;
+}
+
+.horizontal_rule{
+  height:3px;
+  border:none;
+  color:#cc410a;
+  background-color:#cc410a;"
+}
+.second_header{
+  margin-left: 5px;
+  margin-top: 16px;
+}
